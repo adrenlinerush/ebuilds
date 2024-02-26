@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[dmchurch]]></name>
+    <description lang="en"><![CDATA[Personal User Overlay]]></description>
+    <homepage>http://github.com/adrenlinerush/ebuilds</homepage>
+    <owner type="person">
+      <email>no-reply@adrenlinerush.net</email>
+      <name><![CDATA[Austin Mount]]></name>
+    </owner>
+    <source type="git">git://github.com/adrenlinerush/ebuilds.git</source>
+    <feed>http://github.com/adrenlinerush/ebuilds/commits/master.atom</feed>
+  </repo>
+</repositories>
