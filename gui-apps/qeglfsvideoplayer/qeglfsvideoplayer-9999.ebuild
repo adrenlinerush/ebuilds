@@ -5,7 +5,7 @@ EAPI=8
 
 inherit git-r3
 
-DESCRIPTION="A GUI for linux that doesn't require X or Wayland"
+DESCRIPTION="A video player that has keybindings similar to Mplayer. No X or wayland required."
 HOMEPAGE="https://wiki.adrenlinerush.net/"
 EGIT_REPO_URI="https://github.com/adrenlinerush/qeglfsvideoplayer.git"
 
