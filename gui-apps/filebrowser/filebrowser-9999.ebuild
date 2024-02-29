@@ -21,6 +21,7 @@ RDEPEND="
 	>=dev-qt/qtwebengine-5.15.8[widgets,-bindist]
 	>=dev-qt/qtcore-5.15.8-r3[icu]
 	>=dev-qt/qtprintsupport-5.15.8[cups]
+	>=dev-qt/qtwidgets-5.15.8
 	>=media-plugins/gst-plugins-meta-1.20.4
 	>=media-fonts/terminus-font-4.49.1
 	>=media-libs/gst-plugins-bad-1.22.3-r3
